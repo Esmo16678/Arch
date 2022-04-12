@@ -17,9 +17,9 @@ This README contains the steps I do to install and configure a fully-functional 
 After booting some necessary package have to be installed.
 
 ```bash
-pacman -Syy
-pacman -S wget curl git
-```
+p
+
+
 
 This step installs arch to your hard drive. *IT WILL FORMAT THE DISK*
 It prompts you for a root password, a user name and a password for that user.
@@ -27,8 +27,8 @@ It prompts you for a root password, a user name and a password for that user.
 
 ```bash
 sudo pacman -S --noconfirm pacman-contrib curl git
-git clone https://github.com/gramms1/ArchMatic.git
-cd ArchMatic
+git clone https://github.com/Esmo16678/Arch.git 
+cd ArchMatic 
 sh ./archmatic.sh
 ```
 
