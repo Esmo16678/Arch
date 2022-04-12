@@ -27,7 +27,7 @@ It prompts you for a root password, a user name and a password for that user.
 
 ```bash
 sudo pacman -S --noconfirm pacman-contrib curl git
-git clone https://github.com/Jkiller909/ArchMatic.git
+git clone https://github.com/Esmo16678/ArchMatic.git
 cd ArchMatic
 sh ./archmatic.sh
 ```
